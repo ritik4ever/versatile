@@ -19,7 +19,7 @@
 # Libraries
 *.lib
 *.a
-*.la
+*.le
 *.lo
 
 # Shared objects (inc. Windows DLLs)
