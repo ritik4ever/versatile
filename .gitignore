@@ -16,7 +16,7 @@
 *.gch
 *.pch
 
-# Libraries
+# Librarieds
 *.lib
 *.a
 *.le
